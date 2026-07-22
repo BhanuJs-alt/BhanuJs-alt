@@ -7,7 +7,7 @@ Learning in public—one project at a time.
 
   
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhanu-pratap-patel-b9a108355) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhanupatel22666@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanu-pratap-patel-b9a108355) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhanupatel22666@gmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=BhanuJs-alt&theme=dark&hide_border=false)<br/>
